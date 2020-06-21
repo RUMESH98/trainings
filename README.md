@@ -2,7 +2,6 @@
 
     
 Repo Created
-<<<<<<< HEAD
     Pubudu
 
     this is training period
@@ -50,10 +49,50 @@ Repo Created
 
 
 
-asasass
 
 
-         
-=======
-   
->>>>>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r6ytrytry

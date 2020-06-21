@@ -1,6 +1,7 @@
 # trainings
+
     
 Repo Created
     Pubudu
-	SrinathBanda
-    kabnishka
+
+    this is training period

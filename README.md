@@ -1,4 +1,5 @@
 # trainings
+
     
 Repo Created
     Pubudu
@@ -8,6 +9,12 @@ Repo Created
 
 
 
+
+    this is training period
+
+
+
+          kandy city center 
 
 
 
@@ -134,3 +141,4 @@ asdfghjkl;iuytrefgh
 	eoifhieufh
 	ehfjef
 	efejwkf
+r6ytrytry
